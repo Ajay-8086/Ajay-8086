@@ -37,16 +37,6 @@
 
 ---
 
-## 🏆 Achievements
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ajay-8086&theme=gruvbox&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!-- Optional additions -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ajay-8086&show_icons=true&theme=gruvbox)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ajay-8086&theme=gruvbox)
-
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/t-ajay)
