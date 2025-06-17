@@ -15,7 +15,7 @@
 
 ## 📌 Featured Projects
 
-- 🚀 [BuzzBox](https://github.com/Ajay-8086/BUZZBOX) – Real-time chat app with WebSocket.
+- 🚀 [TeamSync](https://github.com/Ajay-8086/TEAMSYNC-ANGULAR) – Trello-like task management app with real-time updates via WebSocket and Angular.
 - 🎵 [YT-Music-Home-Angular](https://github.com/Ajay-8086/YT-MUSIC-HOME-ANGULAR) – A UI for YouTube music clone.
 - 🛒 [CartScape](https://github.com/Ajay-8086/CARTSCAPE) – EJS-based cart system for simple shops.
 
