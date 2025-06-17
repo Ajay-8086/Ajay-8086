@@ -31,6 +31,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/t-ajay)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/tajay5767)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ajay-8086&theme=gruvbox&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
