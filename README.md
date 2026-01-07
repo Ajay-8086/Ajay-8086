@@ -1,47 +1,83 @@
-# 👋 Hi, I'm Ajay T
+# 👋 Ajay T
 
-🌐 I'm a full-stack web developer specializing in the **MEAN Stack** (MongoDB, Express.js, Angular, Node.js). I build clean, user-friendly apps with solid architecture and a strong eye for detail.
+**Full-Stack Developer | MEAN Stack | NestJS-Focused Backend Engineer**
 
----
-
-## 💻 Tech Stack
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+I build **reliable, scalable web systems** with a strong emphasis on **clean architecture, data integrity, and long-term maintainability**.  
+My work focuses on **business-critical applications** such as ERP, billing systems, admin platforms, and modular backend services.
 
 ---
 
-## 📌 Featured Projects
+## 🧠 Core Expertise
 
-- 🚀 [TeamSync](https://github.com/Ajay-8086/TEAMSYNC-ANGULAR) – Trello-like task management app with real-time updates via WebSocket and Angular.
-- 🎵 [YT-Music-Home-Angular](https://github.com/Ajay-8086/YT-MUSIC-HOME-ANGULAR) – A UI for YouTube music clone.
-- 🛒 [CartScape](https://github.com/Ajay-8086/CARTSCAPE) – EJS-based cart system for simple shops.
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+
+- Large-scale Angular applications
+- Structured templates & reusable components
+- Multilingual implementations using `ngx-translate`
+- Admin-focused UI development
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+- Modular and service-oriented architecture
+- JWT authentication & role-based access control
+- Transaction-safe business logic
+- Predictable API design
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+
+**Specialization**
+- ERP-style relational data modeling
+- Financial-grade precision handling
+- Safe, controlled database migrations
+- Long-term maintainability over quick hacks
 
 ---
 
-## 🧠 Currently Learning
+## 🧩 What I Deliver
 
-- 📦 Dockerizing Node apps
-- 🧩 Odoo integrations with custom frontends
-- 📊 CI/CD using GitHub Actions
-
----
-
-## 🌱 My Goals (2025)
-
-- Contribute to 5+ open-source projects
-- Complete 100 Days of Code publicly
-- Mentor junior devs in MEAN stack
+- ERP & billing backends with strict data consistency
+- Admin systems for categories, services, pricing & inventory
+- Multilingual and scalable platforms
+- Modular e-commerce backends
+- Production-ready APIs built for growth
 
 ---
 
-## 📫 Let's Connect
+## 📌 Selected Work
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/t-ajay)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/tajay5767)
+- **TeamSync** — Angular-based task management system  
+  https://github.com/Ajay-8086/TEAMSYNC-ANGULAR
+
+- **YT Music Home (Angular UI)** — YouTube Music inspired UI  
+  https://github.com/Ajay-8086/YT-MUSIC-HOME-ANGULAR
+
+- **CartScape** — Server-rendered cart system (EJS)  
+  https://github.com/Ajay-8086/CARTSCAPE
+
+> Enterprise and client projects are maintained in private repositories.
 
 ---
 
-*“Clean Code, Real Value.”*
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajay-8086&show_icons=true&hide_title=true&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 📫 Contact
+
+- **LinkedIn**: https://linkedin.com/in/t-ajay  
+- **HackerRank**: https://www.hackerrank.com/profile/tajay5767
+
+---
+
+**Clean Architecture • Predictable Systems • Production-Ready Code**
